@@ -31,7 +31,16 @@ This is why enumeration of subnets and routing is always first step in a network
 
 ## Files
 - 'scentgallery.pkt' - Packet Tracer file
-- 'screenshot.png - Topology
+- 'topology.png - Topology
+- 'simulation.png - Simulation Mode (packet moving)'
+- 'simulation1.png - Simulation Mode 2'
+- 'ping-test.png - Ping Test Successful'
+
+## Screenshots
+![Topology](topology.png)
+![Simulation Mode - Packet moving](simulation.png)
+![Simulation Mode 2](simulation1.png)
+![Ping Test Successful](ping-test.png)
 
 ## Tools
 Cisco Packet Tracer 9.0.0
